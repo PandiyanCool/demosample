@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qL/YDOLmnkXqIUPsQ/vkebz5Pf4QedyklXnsnLcwE35ugxlvcqDGwZZPnc+bpyI4B+mtquQJFxW/SVpQbxt1Lw==",
+  "dgSpecHash": "qhsjMeNPjA7SketQsvsQvUYfjxNoRX4/4aZ7PlzWUcSAvUwSyGkamUNUMz2UfT3LIWL2nOq501pTMXO+kHZGBQ==",
   "success": true,
-  "projectFilePath": "D:\\Experiment\\TodayDemo\\demosample\\demosample.csproj",
+  "projectFilePath": "D:\\Experiment\\TodayDemo\\demosample\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KOVLTP005\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.7\\microsoft.aspnetcore.authorization.5.0.7.nupkg.sha512",
     "C:\\Users\\KOVLTP005\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.7\\microsoft.aspnetcore.components.5.0.7.nupkg.sha512",

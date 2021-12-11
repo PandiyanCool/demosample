@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Experiment\\TodayDemo\\demosample\\demosample.csproj": {}
+    "D:\\Experiment\\TodayDemo\\demosample\\Client\\Client.csproj": {}
   },
   "projects": {
-    "D:\\Experiment\\TodayDemo\\demosample\\demosample.csproj": {
+    "D:\\Experiment\\TodayDemo\\demosample\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Experiment\\TodayDemo\\demosample\\demosample.csproj",
-        "projectName": "demosample",
-        "projectPath": "D:\\Experiment\\TodayDemo\\demosample\\demosample.csproj",
+        "projectUniqueName": "D:\\Experiment\\TodayDemo\\demosample\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "D:\\Experiment\\TodayDemo\\demosample\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\KOVLTP005\\.nuget\\packages\\",
-        "outputPath": "D:\\Experiment\\TodayDemo\\demosample\\obj\\",
+        "outputPath": "D:\\Experiment\\TodayDemo\\demosample\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KOVLTP005\\AppData\\Roaming\\NuGet\\NuGet.Config",
